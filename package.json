@@ -1,0 +1,14 @@
+{
+  "name": "parts-to-measurements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proportion-converter.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jon Rumsey",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
