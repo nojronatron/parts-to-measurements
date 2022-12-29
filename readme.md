@@ -40,6 +40,17 @@ You must know what unit you are working with, and you must be able to convert fr
 
 ## Usage
 
+You do not need to install any packages to use the proportion-converter.js module. Just import/require 'proportion-converter.js' in your project and call the exported functions.
+
+To run the Jest tests: 'npm install --save-dev jest'.
+
+If you DO use this code, my only asks are:
+
+1. Please credit my [GitHub Repo](github.com/nojronatron).
+1. You agree I will be held harmless in any case, for any reason, and in every situation, from anything and everything you do with this code, including import it, require it, copy it, run it in a browser or other js-capable environment, etc.
+
+## Functions
+
 convertTablespoonsToTeaspoons: Input numberOfTablespoons. Returns numberOfTablespoons times 3.
 
 convertTeaspoonsToTablespoons: Input numberOfTeaspoons. Returns numberOfTeaspoons divided by 3.
